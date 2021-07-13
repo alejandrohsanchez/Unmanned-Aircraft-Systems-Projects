@@ -1,0 +1,1 @@
+The MATLAB program generates a set of waypoints programmatically. The waypoints create a spiral and are labeled per the legend. The center of path and drone path are also labeled.
