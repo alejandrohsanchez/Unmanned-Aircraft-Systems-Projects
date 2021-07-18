@@ -1,0 +1,3 @@
+In this project, I am developing an rapidly-exploring random tree algorithm for an unmanned aerial vehicle.
+In Waypoint_Following_example_RRT.m, the program uses the RRT algorithm to search for the best path as quickly as possible to the red dot. The red dot is the destination and the start of the path is the far left, center of the map. Figures and explanation provided.
+In Waypoint_Following_example_two_drones.m, the program simulates the flight of two drones flying tandem with specified logistics. Using state machines and collision detection, the simulation shows a follower drone and a leading drone. 
